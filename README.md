@@ -1,9 +1,9 @@
 # Заметки
 
-<img src="notesApp.gif" alt="Notes App GIF" width="70%">
+<img src="notesApp.gif" alt="Notes App GIF" width="100%">
 <img src="notesAppStyling.gif" alt="Notes App GIF" width="40%">
 
-### [Демо приложения]()
+### [Демо приложения](https://kaktusgr.github.io/notes-app/)
 
 ## Описание
 
